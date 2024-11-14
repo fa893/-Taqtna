@@ -79,7 +79,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://assets.onecompiler.app/42r523uca/42y46qzpj/JO.png" alt="شعار" class="logo">
+        <img src="https://assets.onecompiler.app/42r523uca/42y46qzpj/JO%20(2).png" alt="شعار" class="logo">
         <h1>واجهة المواطن - الطاقة المتجددة</h1>
         <div class="links">
             <a href="https://fa893.github.io/2/" target="_blank">نموذج طلب دعم</a>
