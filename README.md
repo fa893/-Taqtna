@@ -20,7 +20,7 @@
       .container {
           width: 90%;
           max-width: 400px;
-          background-color: rgba(255, 255, 255, 0.6); /* زيادة الشفافية */
+          background-color: rgba(255, 255, 255, 0.6); /* شفافية الخلفية */
           padding: 20px;
           border-radius: 10px;
           box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -37,6 +37,8 @@
           width: 100px;
           height: auto;
           margin-bottom: 20px;
+          background-color: transparent; /* إزالة الخلفية البيضاء */
+          padding: 10px; /* إضافة padding لتجنب التصاق الشعار بالحواف */
       }
 
       .links {
